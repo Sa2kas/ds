@@ -1,0 +1,9 @@
+{
+    "log_in": "Prisijungti",
+    "register": "Registruotis",
+    "remember_me": "Prisiminti mane",
+    "forgor_your_password": "Pamiršai slaptažodį?",
+    "email": "E. paštas",
+    "password": "Slaptažodis",
+    "back_to_dashboard": "Atgal į sistemą"
+}
